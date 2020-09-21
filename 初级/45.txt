@@ -4,7 +4,7 @@
     <じんこう④>,[人口],
     x<れいとうしょくひん⑥>,[冷凍食品],
     <ちゅうしんち④>,[中心地],
-    xx<(ライトアップ④)されたビル>,[lightup],lightingup;illumination;floodlighting​
+    x<(ライトアップ④)されたビル>,[lightup],lightingup;illumination;floodlighting​
     <きんだいか⑤>,[近代化],
     x<まちなみ④>,[町並み],市容、街道、街景
     <リニアモーターカー⑥>,[リニアモーターカー],linearmotortrain、磁悬浮列车
